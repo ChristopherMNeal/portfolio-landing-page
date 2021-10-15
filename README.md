@@ -14,10 +14,14 @@
 
 _This project is intended as a portfolio webpage which will later act as the landing page for my programming portfolio._
 
+## Link
+_[Here is a link to the site on GitHub Pages]_ (ChristopherMNeal.github.io/portfolio)
+
 ## Setup/Installation Requirements
 
-* _Clone the repository from GitHub_
-* _Open the webpage in your preferred browser_
+* _Clone the Portfoilo Landing Page GitHub repository from https://github.com/ChristopherMNeal/portfolio-landing-page by running the following code in your terminal_
+`$ git clone https://github.com/ChristopherMNeal/portfolio-landing-page`
+* _Open index.html in your preferred browser_
 
 ## Known Bugs
 
@@ -28,4 +32,4 @@ _This project is intended as a portfolio webpage which will later act as the lan
 
 _MIT_
 
-Copyright (c) _15 October 2021_ _Christopher Neal_
+Copyright (c) _15 October 2021_ _Christopher Neal_ _christopher.m.neal@gmail.com_
