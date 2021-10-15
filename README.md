@@ -21,7 +21,8 @@ _This project is intended as a portfolio webpage which will later act as the lan
 
 ## Known Bugs
 
-* _There are no known issues at this time._
+* _Unwanted padding below image box._
+* _Fixed title bar interferes with ID navigation._
 
 ## License
 
