@@ -1,0 +1,16 @@
+body {
+  font-family: Didot, Didot LT STD, Hoefler Text, Garamond, Calisto MT, Times New Roman, serif;
+}
+.caption {
+  font-family:'Courier New', Courier, monospace;
+  background-color: #d1d1d1;
+  text-align: center;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.imagebox {
+  margin: 4px;
+  border: 3px inset #000000);
+  padding: 4px;
+}
