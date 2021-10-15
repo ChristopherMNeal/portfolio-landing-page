@@ -3,18 +3,18 @@ body {
 }
 .caption {
   font-family:'Courier New', Courier, monospace;
-  background-color: #d1d1d1;
+  background-color: #e0e0e0;
   text-align: center;
   padding: 3px;
 }
 
 .imagebox {
-  margin: 4px;
+  margin: 1%;
   border: 3px double #000000;
   padding: 1px;
-  xfloat: left;
+  float: right;
   box-sizing: content-box;
-  width: 300px;
+  width: min-content;
 }
 
 .section {
@@ -26,4 +26,5 @@ body {
 .textbox {
   float: right;
   box-sizing: content-box;
+  width: 60%;
 }
