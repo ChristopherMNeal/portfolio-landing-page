@@ -7,18 +7,33 @@
 </head>
 <body>
   <div class="container">
-    <h1 class="fixedtitle">Christopher Neal's Portfolio</h1>
-    <h1 class="hidden">Christopher Neal's Portfolio</h1>
+    <div class="fixedtitle">
+      <h1>Christopher Neal's Portfolio</h1>
+      <ul>
+        <li><a href="#about-me">About Me</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#background">My Background</a></li>
+      </ul>
+    </div>
+    <div class="hiddentitle">
+      <h1>Christopher Neal's Portfolio</h1>
+      <ul>
+        <li><a href="#about-me"></a>About Me</li>
+        <li><a href="#projects"></a>Projects</li>
+        <li><a href="#background"></a>My Background</li>
+      </ul>
+    </div>
+
     <div class="section">
       <div class="imagebox">
         <img src="img/chris-studying.jpeg" width="300" height="375" alt="Christopher Neal with a gray cat">
         <p class="caption">Me with my study buddy, Phantom Wolf.</p>
       </div>
-      <h2>About Me</h2>
+      <h2 id="about-me">About Me</h2>
       <h3>Hi! I'm Chris</h3>
       <p>I'm currently a student at <strong>Epicodus</strong> and I'm <em>thrilled</em> to be learning web development and computer programming!<br>Fun fact: in my previous career I worked as a professional chef in one of Portland's top restaurants!<br>My goals for my new careeer include working in the field, developing personal projects, and continuing to learn and specialize in my coding skills.</p>
     </div>
-      <h2>Past and Current Projects</h2>
+      <h2 id="projects">Past and Current Projects</h2>
     <ol class="textbox">
       <li><a href="https://github.com/ChristopherMNeal/portfolio-landing-page">Portfolio Landing Page</a></li>
         <ul>
@@ -61,7 +76,7 @@
           <li class="small">A Javascript WIP to scrape a usable playlist from a website using Javascript</li>
         </ul>  
     </ol>
-    <h2>My Background</h2>
+    <h2 id="background">My Background</h2>
     <h3>Education</h3>
     <ul class="textbox">
       <li>Developer Bootcamp, Epicodus, Portland, OR</li>
