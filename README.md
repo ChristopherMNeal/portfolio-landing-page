@@ -15,7 +15,7 @@
 _This project is intended as a portfolio webpage which will later act as the landing page for my programming portfolio._
 
 ## Link
-_[Here is a link to the site on GitHub Pages]_ (ChristopherMNeal.github.io/portfolio-landing-page)
+_[Here is a link to the site on GitHub Pages](https://christophermneal.github.io/portfolio-landing-page/)_
 
 ## Setup/Installation Requirements
 
