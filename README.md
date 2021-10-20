@@ -30,6 +30,6 @@ _[Here is a link to the site on GitHub Pages](https://christophermneal.github.io
 
 ## License
 
-_MIT_
+_[MIT](LICENSE.md)_
 
 Copyright (c) _15 October 2021_ _Christopher Neal_ _christopher.m.neal@gmail.com_
